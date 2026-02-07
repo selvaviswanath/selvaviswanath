@@ -64,8 +64,3 @@ A real-time facial recognition system using **FaceNet** and **Python** to scan p
 * **MS in Computer Science** | Scaler Neovarsity & Woolf University (Expected 2026)
 * **B.Tech in Information Technology** | Anna University (2023)
 * **Google Cloud Certified Professional DevOps Engineer**
-
-##  Education & Certs
-* **MS in Computer Science** | [cite_start]Scaler Neovarsity & Woolf University (Expected 2026) [cite: 34, 35]
-* **B.Tech in Information Technology** | [cite_start]Anna University (2023) [cite: 36, 37]
-* [cite_start]**Google Cloud Certified Professional DevOps Engineer** [cite: 39]
