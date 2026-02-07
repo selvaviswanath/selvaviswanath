@@ -1,3 +1,4 @@
+
 # Selva Viswanath Senthilkumar
 ### Full-Stack Software & Cloud Engineer | GCP Specialist
 
@@ -8,11 +9,11 @@
 ---
 
 ## 🧬 About Me
-[cite_start]I am a **Full-Stack & DevOps Engineer** specializing in architecting AI-driven enterprise platforms[cite: 1, 2]. [cite_start]Currently, I am building high-scale systems for Fortune 500 clients like Ford and Sysco while pursuing my **MS in Computer Science** at **Scaler Neovarsity / Woolf University**[cite: 4, 12, 34, 35].
+I am a **Full-Stack & DevOps Engineer** specializing in architecting AI-driven enterprise platforms. Currently, I am building high-scale systems for Fortune 500 clients like Ford and Sysco while pursuing my **MS in Computer Science** at **Scaler Neovarsity / Woolf University**.
 
-* [cite_start]🔭 **Current Focus:** Cost-reduction AI intelligence hubs and RAG-based data querying platforms[cite: 12, 22].
-* [cite_start]⚡ **Core Competency:** Bridging the gap between React-based frontends, Python backends, and Google Cloud infrastructure[cite: 2, 6, 32].
-* [cite_start]🏆 **Background:** Winner of the TNT Hackathon 2022 for excellence in Machine Learning[cite: 8].
+* 🔭 **Current Focus:** Cost-reduction AI intelligence hubs and RAG-based data querying platforms.
+* ⚡ **Core Competency:** Bridging the gap between React-based frontends, Python backends, and Google Cloud infrastructure.
+* 🏆 **Background:** Winner of the TNT Hackathon 2022 for excellence in Machine Learning.
 
 ---
 
@@ -53,11 +54,16 @@ A real-time facial recognition system using **FaceNet** and **Python** to scan p
 ---
 
 ## 📈 Engineering Impact
-* [cite_start]**Infrastructure:** Automated provisioning using **Terraform**, reducing deployment rollout to **<2 minutes** with near-zero downtime[cite: 24].
-* [cite_start]**Performance:** Improved application response times from **160s to <90s** through SQL optimization and asynchronous processing[cite: 25].
-* [cite_start]**Security:** Integrated automated compliance scanning (SonarQube, 42Crunch) to meet stringent enterprise standards[cite: 29].
+* **Infrastructure:** Automated provisioning using **Terraform**, reducing deployment rollout to **<2 minutes** with near-zero downtime.
+* **Performance:** Improved application response times from **160s to <90s** through SQL optimization and asynchronous processing.
+* **Security:** Integrated automated compliance scanning (SonarQube, 42Crunch) to meet enterprise standards.
 
 ---
+
+## 🎓 Education & Certs
+* **MS in Computer Science** | Scaler Neovarsity & Woolf University (Expected 2026)
+* **B.Tech in Information Technology** | Anna University (2023)
+* **Google Cloud Certified Professional DevOps Engineer**
 
 ## 🎓 Education & Certs
 * **MS in Computer Science** | [cite_start]Scaler Neovarsity & Woolf University (Expected 2026) [cite: 34, 35]
