@@ -8,12 +8,12 @@
 
 ---
 
-## 🧬 About Me
+##  About Me
 I am a **Full-Stack & DevOps Engineer** specializing in architecting AI-driven enterprise platforms. Currently, I am building high-scale systems for Fortune 500 clients like Ford and Sysco while pursuing my **MS in Computer Science** at **Scaler Neovarsity / Woolf University**.
 
-* 🔭 **Current Focus:** Cost-reduction AI intelligence hubs and RAG-based data querying platforms.
-* ⚡ **Core Competency:** Bridging the gap between React-based frontends, Python backends, and Google Cloud infrastructure.
-* 🏆 **Background:** Winner of the TNT Hackathon 2022 for excellence in Machine Learning.
+*  **Current Focus:** AI/ML and System Design.
+*  **Core Competency:** Bridging the gap between Development and infrastructure.
+*  **Background:** Winner of the TNT Hackathon 2022 by [Latentview analytics corporation](https://latentview.com) for excellence in Machine Learning.
 
 ---
 
