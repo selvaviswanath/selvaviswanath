@@ -3,7 +3,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viswanathselva)
 [![Portfolio](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:selvaviswanath@protonmail.com)
-[![GCP Certified](https://img.shields.io/badge/GCP%20Certified-Professional%20DevOps-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)]([https://google.com/wallet](https://www.credly.com/users/selva-viswanath-latentview))
+[![GCP Certified](https://img.shields.io/badge/GCP%20Certified-Professional%20DevOps-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)]([https://www.credly.com/users/selva-viswanath-latentview])
 
 ---
 
